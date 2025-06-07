@@ -70,3 +70,4 @@ This project demonstrates proficiency in browser extension development, real-tim
 
 *OUTPUT* 
 
+![Image](https://github.com/user-attachments/assets/fff3a3b9-a75e-490d-afcc-8cbe3cc5e7e8)
